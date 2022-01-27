@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "361478190281",
+    "project_id": "gorjetas-8f2c2",
+    "storage_bucket": "gorjetas-8f2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361478190281:android:1de707ad34faa46697c918",
+        "android_client_info": {
+          "package_name": "com.example.gorjetas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361478190281-jmh925v9k95jakcsmt1eml24unb3c61c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gorjetas",
+            "certificate_hash": "c814f60fa266456b65d09364761ab414af41c964"
+          }
+        },
+        {
+          "client_id": "361478190281-hbi6sji4t80qievnvo60cdq3j5tpo6p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8HuIcFZAhICrmT804KzjlNj9-fdPKSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361478190281-hbi6sji4t80qievnvo60cdq3j5tpo6p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
